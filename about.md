@@ -14,7 +14,7 @@ better understand the mechanism of gene activation.
 You can find my publications from graduate school [here](https://scholar.google.com/citations?user=ERRyb1sAAAAJ&hl=en&oi=ao) 
 and a more comprehensive resume [here](/resume).
 
-Professionally, I am now thinking about how to leverage RNA biology to develop therapeutics, as
+Professionally, I will soon be thinking about how to leverage RNA biology to develop therapeutics, as
 a Scientist in Computational Biology at Flagship VL59, Inc in Cambridge, MA.
 
 **Find me** 
