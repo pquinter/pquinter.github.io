@@ -10,7 +10,7 @@ mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Porfirio Quintero Cadena # author name
+  name: Porfirio Quintero Cadena, PhD # author name
   bio: >- # tell to the world
     Biological scientist.
   username: pquinter # social media username eg. github, twitter 
