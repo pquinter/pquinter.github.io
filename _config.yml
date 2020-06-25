@@ -4,7 +4,7 @@ description: >- # site description
   Porfirio's website
 lang: en-US # default lang
 timezone: USA/Losangeles # set your timezone
-image: /assets/img/splash.jpg # This image used for Open Graph more info https://ogp.me/
+image: /assets/img/splash.png # This image used for Open Graph more info https://ogp.me/
 #repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
 mode: dark # default theme "dark" | "light"
 
@@ -14,8 +14,8 @@ author:
   bio: >- # tell to the world
     Biological scientist.
   username: pquinter # social media username eg. github, twitter 
-  email: porfirioqc@gmail # your contact adress
-  avatar: /assets/img/splash.jpg # change with your own avatar
+  email: "mailto:porfirioqc@gmail.com" # your contact adress
+  avatar: /assets/img/splash.png # change with your own avatar
 
 # Url settings
 url: "https://pquinter.github.io"

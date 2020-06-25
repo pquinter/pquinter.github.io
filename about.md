@@ -17,7 +17,7 @@ Professionally, I will soon be thinking about how to leverage RNA biology to dev
 a Scientist in Computational Biology at Flagship VL59, Inc in Cambridge, MA.
 
 **Find me** 
-<a href="mailto:porfirioqc@gmail.com">email</a> |
+[email]({{ site.author.email }}) |
 [github](https://github.com/pquinter) |
 [twitter](https://twitter.com/porfirioquin) |
 [linkedin](https://www.linkedin.com/in/porfirio-quintero/) 

@@ -49,8 +49,8 @@ layout: compress
           </div>
           {% endif %}
           <div class="social">
-              <br>
           {% if page.social %}
+            <br>
             <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
             <div class="fb-share-button"
                 data-href="{{site.url}}{{page.url}}" data-layout="button" data-size="small" style="position: relative; top: -9px; left: 5px;">
@@ -63,6 +63,7 @@ layout: compress
         <div class="page-content" itemprop="articleBody">
           {% include anchor_headings.html html=content anchorClass="anchor-head" beforeHeading=true h_min=1 h_max=4 %}
           {% if page.social %}
+            <br>
             <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
             <div class="fb-share-button"
                 data-href="{{site.url}}{{page.url}}" data-layout="button" data-size="small" style="position: relative; top: -9px; left: 5px;">
