@@ -1,20 +1,26 @@
 ---
-title: Resume
-permalink: /resume/
+title: CV
+permalink: /cv/
 layout: page
-excerpt: CV
+excerpt: Porfirio Quintero's CV
 comments: false
 ---
 
 ### Education
-- **PhD in Systems Biology**, California Institute of Technology, 2020. Laboratory of [Paul Sternberg](http://wormlab.caltech.edu) 
-- **BSc Biotechnology**, Universidad Autónoma de Nuevo León, 2013,  Top of Graduating Class.  
+- **PhD in Systems Biology**, California Institute of Technology, 2020, [Sternberg laboratory](http://wormlab.caltech.edu).  
+- **BSc Biotechnology**, Universidad Autónoma de Nuevo León, 2013, Highest grade of graduating class.  
+
+<span style="font-size:1.3em;">**Languages**</span> | Spanish·Native | English·Fluent | French·3/5 | German·1/5
+
+<span style="font-size:1.3em;">**Hard Skills**</span> | Data Analysis | Python Programming | Molecular Biology
+
+<span style="font-size:1.3em;">**For Enjoyment**</span> | Rock climibing | Soccer | Racketball | Tennis | Super smash | Philosophy
 
 ### Experience
-- Independently established new research leading to 2 first-author publications.  
+- Independently established new research leading to 2 first-author [publications](https://scholar.google.com/citations?user=ERRyb1sAAAAJ&hl=en&oi=ao).  
 - Discovered novel mechanism of gene activation (<a href="/assets/docs/2020_QuinteroCadenaMolCellCTD.pdf" target="blank">_Molecular Cell_, 2020</a>).  
 - Developed computational analysis pipelines for microscopy and sequencing data.  
-- Conceived and developed a new microscopy approach to understand animal development.  
+- Conceived new microscopy approach to understand animal development.  
 - Presented my work in 4 major international conferences in the US and Europe.  
 
 ### Leadership
