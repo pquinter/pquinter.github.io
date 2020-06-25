@@ -7,7 +7,7 @@ comments: false
 ---
 
 ### Education
-- **PhD in Systems Biology**, California Institute of Technology, 2020.  
+- **PhD in Systems Biology**, California Institute of Technology, 2020. Laboratory of [Paul Sternberg](http://wormlab.caltech.edu) 
 - **BSc Biotechnology**, Universidad Autónoma de Nuevo León, 2013,  Top of Graduating Class.  
 
 ### Experience

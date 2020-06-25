@@ -7,8 +7,7 @@ comments: false
 ---
 
 I am a biological scientist in transition to full-time computational biology.
-I did my PhD in Biology at [Caltech](https://www.caltech.edu) in the laboratory
-of [Paul Sternberg](http://wormlab.caltech.edu).
+I did my PhD in Biology at [Caltech](https://www.caltech.edu).
 I worked with worms and yeast, mainly using microscopy and sequencing to 
 better understand the mechanism of gene activation.
 You can find my publications from graduate school [here](https://scholar.google.com/citations?user=ERRyb1sAAAAJ&hl=en&oi=ao) 
