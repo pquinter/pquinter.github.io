@@ -16,7 +16,7 @@ and my CV [here](/cv).
 Professionally, I will soon be thinking about how to leverage RNA biology to develop therapeutics, as
 a Scientist in Computational Biology at Flagship VL59, Inc in Cambridge, MA.
 
-**Find me** 
+**Find me** ▸
 [email]({{ site.author.email }}) |
 [github](https://github.com/pquinter) |
 [twitter](https://twitter.com/porfirioquin) |
