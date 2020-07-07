@@ -43,7 +43,7 @@ Philosophy
     - Organized largest conference for the association: 400+ participants from 6 countries.  
     - Established connections to 10 leading scientists and coordinated their visit schedules.  
 - International Genetically Engineered Machine Competition, 2011-2013.  
-    - Led 2 teams at UANL and conceived of original project ideas in synthetic biology.  
+    - Conceived and developed original project ideas in synthetic biology.  
     - Secured 2 silver medals and 1 experimental measurement award.  
     - Delivered oral presentations in Indianapolis, Santiago de Chile, and Boston.  
 
