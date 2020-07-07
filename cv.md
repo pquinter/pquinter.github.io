@@ -22,7 +22,7 @@ Python Programming |
 Molecular Biology
 
 <span style="font-size:1.2em;">**Enjoyment**</span> ▸
-Rock climibing | 
+Rock climbing | 
 Soccer | 
 Racketball | 
 Tennis | 
