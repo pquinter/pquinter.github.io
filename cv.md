@@ -43,7 +43,7 @@ Philosophy
     - Organized largest conference for the association: 400+ participants from 6 countries.  
     - Established connections to 10 leading scientists and coordinated their visit schedules.  
 - International Genetically Engineered Machine Competition, 2011-2013.  
-    - Conceived and developed original project ideas in synthetic biology.  
+    - Conceived and developed original project ideas in Synthetic Biology.  
     - Secured 2 silver medals and 1 experimental measurement award.  
     - Delivered oral presentations in Indianapolis, Santiago de Chile, and Boston.  
 
@@ -56,6 +56,6 @@ Philosophy
     - Created and delivered 1-week introductory workshop in Systems Biology.
 
 ### Honors  
-- Gordon Ross Medical Foundation Graduate Fellowship. Caltech, 2014.  
 - Benjamin M. Rosen Graduate Fellowship. Caltech, 2015.  
+- Gordon Ross Medical Foundation Graduate Fellowship. Caltech, 2014.  
 - University Talent Fellowship. UANL, 2009-2013.  
