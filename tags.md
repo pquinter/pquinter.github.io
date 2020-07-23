@@ -11,6 +11,7 @@ excerpt: Sorted article by tags.
   {{ name }}
 </h4>
 {% for post in site.tags[name] %}
+{% if post.visible== 1  %}
 <article class="posts">
   <span class="posts-date">{{ post.date | date: "%b %d" }}</span>
   <header class="posts-header">
@@ -19,4 +20,5 @@ excerpt: Sorted article by tags.
     </h4>
   </header>
 </article>
+{% endif %}
 {% endfor %} {% endfor %}
