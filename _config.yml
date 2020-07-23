@@ -21,7 +21,7 @@ author:
 url: "https://pquinter.github.io"
 baseurl:
 permalink: /:title/
-google_analytics:
+google_analytics: UA-173358142-1
 fb_appid:
 
 # Collection setting
