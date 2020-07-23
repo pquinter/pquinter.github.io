@@ -7,6 +7,10 @@ comments: false
 ---
 
 I am a biological scientist in transition to full-time computational biology.
+I enjoy working with and learning from others. I can find many problems
+interesting, and this curiosity often helps communicate and motivates my work
+and thought process. 
+
 I did my PhD in Biology at [Caltech](https://www.caltech.edu).
 I worked with worms and yeast, mainly using microscopy and sequencing to 
 better understand the mechanism of gene activation.
