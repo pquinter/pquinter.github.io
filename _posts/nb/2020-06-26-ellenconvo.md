@@ -5,6 +5,7 @@ date: 2020-06-26
 social: true
 modified: 2020-06-26
 tags: [text, python, jupyter notebook]
+visible: 1
 description: Texts, with love?
 ---
 
